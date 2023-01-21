@@ -1,6 +1,6 @@
-## Hi there 👋, I am biplob kumar
-### MERN Stack developer
-![MERN Stack developer](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/325387858_717720669712043_1817125633757256678_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGbX3W4eoUsWvvm48c6EtKVIgweYljh_WciDB5iWOH9Z8U90tlbMTillESM8VnnCrMvpDeOWbMmqqyfUDpOL-sr&_nc_ohc=tsCFfYBg8HcAX-2dKXz&tn=Kl2O20TRlb4Wyc6C&_nc_ht=scontent.fdac24-2.fna&oh=00_AfDFNUjSbSLyNEmPKCMSvJTxa_sbjB3Y2m6PMNBM2xlcOg&oe=63D044FE)
+### Hi there 👋, I am biplob kumar
+#### MERN Stack developer
+![MERN Stack developer](<a href="https://ibb.co/5Fx3MNW"><img src="https://i.ibb.co/L5hykLz/Blue-Modern-Tips-Business-Banner.png" alt="Blue-Modern-Tips-Business-Banner" border="0"></a>)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
