@@ -1,6 +1,6 @@
 
 (<a href="https://ibb.co/5Fx3MNW"><img src="https://i.ibb.co/L5hykLz/Blue-Modern-Tips-Business-Banner.png" alt="Blue-Modern-Tips-Business-Banner" border="0"></a>)
-## Hi there 👋, I am biplob kumar
+# Hi there 👋, I am biplob kumar
 ### MERN Stack developer
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
