@@ -2,14 +2,14 @@
 (<a href="https://ibb.co/5Fx3MNW"><img src="https://i.ibb.co/L5hykLz/Blue-Modern-Tips-Business-Banner.png" alt="Blue-Modern-Tips-Business-Banner" border="0"></a>)
 # Hi there 👋, I am biplob kumar
 ### MERN Stack developer
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Web Development is my passion and I will leave no stone unturned in producing a masterpiece for you. I work with a focus on Quality, Aesthetics and Professionalism.
 
 Skills: HTML5 , CSS3, BOOTSTRAP5 , JAVASCRIPT , REACTJS, Node-Js , MongoDb,
 
 - 🔭 I’m currently working on Developing 
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on Guthub 
-- 💬 Ask me about anymore 
+- 💬 Ask me about web development
 - 😄 Pronouns: English 
 
 
