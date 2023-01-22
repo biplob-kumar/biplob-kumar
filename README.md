@@ -17,14 +17,14 @@ Skills: HTML5 , CSS3, BOOTSTRAP5 , JAVASCRIPT , REACTJS, Node-Js , MongoDb,
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=biplob7789)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=biplob-kumar)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biplob7789)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biplob-kumar)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=biplob7789&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=biplob-kumar&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/biplob7789)  
+![GitHub metrics](https://metrics.lecoq.io/biplob-kumar)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=biplob7789)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=biplob-kumar)  
 
 ![Profile views](https://gpvc.arturio.dev/biplob-kumar)  
