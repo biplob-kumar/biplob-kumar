@@ -27,4 +27,4 @@ Skills: HTML5 , CSS3, BOOTSTRAP5 , JAVASCRIPT , REACTJS, Node-Js , MongoDb,
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=biplob7789)  
 
-![Profile views](https://gpvc.arturio.dev/biplob7789)  
+![Profile views](https://gpvc.arturio.dev/biplob-kumar)  
