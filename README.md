@@ -1,5 +1,5 @@
 
-(<a href="https://ibb.co/5Fx3MNW"><img src="https://i.ibb.co/L5hykLz/Blue-Modern-Tips-Business-Banner.png" alt="Blue-Modern-Tips-Business-Banner" border="0"></a>)
+<a href="https://ibb.co/5Fx3MNW"><img src="https://i.ibb.co/L5hykLz/Blue-Modern-Tips-Business-Banner.png" alt="Blue-Modern-Tips-Business-Banner" border="0"></a>
 # Hi there 👋, I am biplob kumar
 ### MERN Stack developer
 Web Development is my passion and I will leave no stone unturned in producing a masterpiece for you. I work with a focus on Quality, Aesthetics and Professionalism.
